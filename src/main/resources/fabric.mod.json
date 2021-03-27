@@ -19,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.vabese.Arcata"
+      "com.vabese.arcata.Arcata"
     ]
   },
   "mixins": [

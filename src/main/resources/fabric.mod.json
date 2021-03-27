@@ -4,7 +4,7 @@
   "version": "${version}",
 
   "name": "Arcata magic Mod",
-  "description": "A magic mod made for Fabric, inspired by Forge magic mods and meant to make dreams real (or something close to it)",
+  "description": "A magic mod made for Fabric",
   "authors": [
     "Vabese AKA. Cataclysm"
   ],

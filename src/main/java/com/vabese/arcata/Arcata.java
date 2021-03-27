@@ -1,4 +1,10 @@
 package com.vabese.arcata;
 
-public class Arcata {
+import net.fabricmc.api.ModInitializer;
+
+public class Arcata implements ModInitializer{
+    @Override
+    public void onInitialize() {
+
+    }
 }

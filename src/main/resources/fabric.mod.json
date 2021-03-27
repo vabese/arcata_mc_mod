@@ -1,29 +1,28 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "arcata",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Arcata magic Mod",
+  "description": "A magic mod made for Fabric, inspired by Forge magic mods and meant to make dreams real (or something close to it)",
   "authors": [
-    "Me!"
+    "Vabese AKA. Cataclysm"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://github.com/vabese/arcata_mc_mod",
+    "sources": "https://github.com/vabese/arcata_mc_mod"
   },
 
-  "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "license": "cc-by",
+  "icon": "assets/arcata/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "com.vabese.Arcata"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
   ],
 
   "depends": {
